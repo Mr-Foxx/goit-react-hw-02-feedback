@@ -20,4 +20,10 @@ export const Button = styled.button`
   color: white;
   cursor: pointer;
 
+  &:hover{
+    transform: scale(1.1);
+    background-color: #306097;
+
+  }
+
 `;
